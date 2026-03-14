@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import { STATS } from "../data/data";
 import Heroimg from "../assets/HeroSection.png";
+// Okay Everything is good
 
 function HeroSection({ setCurrentPage }) {
   const [loaded, setLoaded] = useState(false);
