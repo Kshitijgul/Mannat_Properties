@@ -1,4 +1,4 @@
-import HeroSection from "../components/HeroSection";
+import HeroSection from "../components/HeroSectionTemp";
 import DestCard from "../components/DestCard";
 import BlogCard from "../components/BlogCard";
 import Footer from "../components/Footer";
